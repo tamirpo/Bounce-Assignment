@@ -27,7 +27,7 @@ with json request body:
     "surgeon_type": "brain"
 }
 ```
-supported surgeon type are: brain, heart
+supported surgeon types are: brain, heart
 
 
 
