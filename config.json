@@ -1,0 +1,40 @@
+{
+  "working_hours_start": "10:00",
+  "working_hours_end": "18:00",
+  "max_days_ahead_to_schedule": 7,
+  "rooms": [
+    {
+      "machines": [
+        {
+          "type": "MRI"
+        },
+        {
+          "type": "CT"
+        },
+        {
+          "type": "ECG"
+        }
+      ]
+    },
+    {
+      "machines": [
+        {
+          "type": "MRI"
+        },
+        {
+          "type": "CT"
+        }
+      ]
+    },
+    {
+      "machines": [
+        {
+          "type": "MRI"
+        },
+        {
+          "type": "ECG"
+        }
+      ]
+    }
+  ]
+}
